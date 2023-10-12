@@ -1,12 +1,20 @@
 p{
     font-family: Arial, Helvetica, sans-serif;
-    padding: 20 ;
+    padding-bottom: 40 ;
     font-size: 16;
 }
 
+button{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 20 ;
+    padding-top: 20 ;
+}
+
 h1{
-font-family: 'Times New Roman', Times, serif;
-font-size: 40 ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40 ;
+    padding-bottom: 20 ;
+    padding-top: 20 ;
 }
 
 img2{
